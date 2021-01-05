@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="480b0f89-6c62-4def-93d1-ab3c8f2d708b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/login-cs" />
+  </component>
+  <component name="ProjectId" id="1lxrHE0yYfvBC8Tl3RSymRqnVVe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyWebCode\login" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="480b0f89-6c62-4def-93d1-ab3c8f2d708b" name="Default Changelist" comment="" />
+      <created>1608549493671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608549493671</updated>
+      <workItem from="1608549494749" duration="6072000" />
+      <workItem from="1608599899116" duration="6801000" />
+      <workItem from="1608619508961" duration="14020000" />
+      <workItem from="1608645052302" duration="4456000" />
+      <workItem from="1608703577406" duration="5158000" />
+      <workItem from="1608709075891" duration="663000" />
+      <workItem from="1608711353576" duration="4828000" />
+      <workItem from="1608771295931" duration="1486000" />
+      <workItem from="1608790993134" duration="9370000" />
+      <workItem from="1608801366089" duration="26000" />
+      <workItem from="1608805050224" duration="2000" />
+      <workItem from="1608862503724" duration="530000" />
+      <workItem from="1608863325433" duration="28000" />
+      <workItem from="1608863400164" duration="2056000" />
+      <workItem from="1609156944626" duration="495000" />
+      <workItem from="1609157448694" duration="54000" />
+      <workItem from="1609157509602" duration="35000" />
+      <workItem from="1609157550825" duration="284000" />
+      <workItem from="1609157843154" duration="64000" />
+      <workItem from="1609157914133" duration="19000" />
+      <workItem from="1609158028625" duration="2000" />
+      <workItem from="1609212139076" duration="16000" />
+      <workItem from="1609213641964" duration="335000" />
+      <workItem from="1609223165153" duration="606000" />
+      <workItem from="1609655858114" duration="343000" />
+      <workItem from="1609656511627" duration="422000" />
+      <workItem from="1609762011565" duration="5000" />
+      <workItem from="1609827364011" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
